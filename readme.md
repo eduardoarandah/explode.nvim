@@ -2,6 +2,8 @@
 
 Some things just work better with explosions.
 
+https://github.com/user-attachments/assets/3ebd0fed-814a-45f4-a3b4-72b43d28b73d
+
 ## Installation
 
 ### lazy.nvim
